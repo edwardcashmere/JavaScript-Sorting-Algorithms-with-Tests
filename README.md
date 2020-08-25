@@ -16,7 +16,7 @@ In this group we have but to Radix, Merge and quick sort but to name a few , the
  Merge sort and Quick sort constanty do comparisons though differently .
  
  #Radix Sort
- Radix sorting Algorithm takes advantage of particular special charactristic of numbers of Integers,e.g 
+ Radix sorting Algorithm takes advantage of particular special charactristic of numbers of Integers,e.g ...
  
  
  #Merge Sort
@@ -35,7 +35,11 @@ In this group we have but to Radix, Merge and quick sort but to name a few , the
  
  #Linear search
  
+ Generally slow and scalable, this is because when searching for an item comparisons have to be made with all the elements to establish 
+ a match especially if the element we are looking for is the last element(worst case scenario);The time complexity O(n) 
  
  
  
  #Binary Search
+ 
+ This searching Algorithm is much better since after every iteration if the elment is not found have the data is eliminated from the range of possible values until the elemnent is found . This gives the algorithm a time complexity of log n
