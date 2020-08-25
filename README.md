@@ -20,6 +20,7 @@ In this group we have but to Radix, Merge and quick sort but to name a few , the
  
  
  #Merge Sort
+ 
  Merge sort takes advantage of the fact that a single number in an array is already sorted .
  Merge  algorithm takes an array and splits it into continuously until the smaller sub-arrays have only one elements in them ,then it merges the 
  sub-arrays recursively making comparisons making sure the merged array is always sorted when merging the sub-arrays.
